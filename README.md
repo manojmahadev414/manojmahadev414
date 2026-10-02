@@ -1,5 +1,7 @@
+<h1 align="center">Manoj Mahadev</h1>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=180&section=header&text=Manu%20Mahadev&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Cloud%20%26%20Platform%20Engineering&descAlignY=60&descSize=16" alt="Manu Mahadev — Cloud Devops Engineering" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=200&color=timeGradient&section=header&reversal=false&text=Cloud+Devops+Engineer&textBg=false&fontSize=40&fontAlign=50&fontAlignY=50&rotate=0&strokeWidth=0&descSize=20&descAlign=50&descAlignY=60" alt="Cloud Devops Engineering" />
 </p>
 
 <p align="center">
